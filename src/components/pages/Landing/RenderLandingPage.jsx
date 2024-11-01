@@ -21,9 +21,9 @@ function RenderLandingPage(props) {
 
   return (
     <div className="main">
-      <div className="header">
-        <div className="header-text-container">
-          <h1>Asylum Office Grant Rate Tracker</h1>
+      <div className="header" data-testid="header">
+        <div className="header-text-container" data-testid="header h1">
+          <h1 >Asylum Office Grant Rate Tracker</h1>
           <h3>
             The Asylum Office Grant Rate Tracker provides asylum seekers,
             researchers, policymakers, and the public an interactive tool to
@@ -34,7 +34,7 @@ function RenderLandingPage(props) {
 
       {/* Graphs Section: Add code here for the graphs section for your first ticket */}
       <div className="graphs-section">
-        <div className="graphs-colums-container">
+        <div className="graphs-colums-container" data-testid="graphs colums">
           <div className="graphs-image-container">
             <div className="graphs-img-container">
               <img

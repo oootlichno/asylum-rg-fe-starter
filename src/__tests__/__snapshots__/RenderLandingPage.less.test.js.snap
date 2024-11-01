@@ -1,0 +1,451 @@
+// Jest Snapshot v1, https://goo.gl/fbAQLP
+
+exports[`CSS Style Tests for RenderLandingPage Responsive Layout renders correctly on mobile (360px) 1`] = `
+<DocumentFragment>
+  <div
+    class="main"
+  >
+    <div
+      class="header"
+      data-testid="header"
+    >
+      <div
+        class="header-text-container"
+      >
+        <h1>
+          Asylum Office Grant Rate Tracker
+        </h1>
+        <h3>
+          The Asylum Office Grant Rate Tracker provides asylum seekers, researchers, policymakers, and the public an interactive tool to explore USCIS data on Asylum Office decisions
+        </h3>
+      </div>
+    </div>
+    <div
+      class="graphs-section"
+    >
+      <div
+        class="graphs-colums-container"
+      >
+        <div
+          class="graphs-image-container"
+        >
+          <div
+            class="graphs-img-container"
+          >
+            <img
+              alt="Grant Rates By Office"
+              class="grf-img"
+              src="bar-graph-no-text.png"
+            />
+          </div>
+          <div
+            class="graphs-text-container"
+          >
+            <h3>
+              Search Grant Rates By Office
+            </h3>
+          </div>
+        </div>
+        <div
+          class="graphs-image-container"
+        >
+          <div
+            class="graphs-img-container"
+          >
+            <img
+              alt="Grant Rates By Nationality"
+              class="grf-img"
+              src="pie-chart-no-text.png"
+            />
+          </div>
+          <div
+            class="graphs-text-container"
+          >
+            <h3>
+              Search Grant Rates By Nationality
+            </h3>
+          </div>
+        </div>
+        <div
+          class="graphs-image-container"
+        >
+          <div
+            class="graphs-img-container"
+          >
+            <img
+              alt="Grant Rates Over Time"
+              class="grf-img"
+              src="line-graph-no-text.png"
+            />
+          </div>
+          <div
+            class="graphs-text-container"
+          >
+            <h3>
+              Search Grant Rates Over Time
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-more-data-btn-container"
+      >
+        <button
+          class="ant-btn ant-btn-default"
+          style="background-color: rgb(64, 76, 74); color: rgb(255, 255, 255);"
+          type="button"
+        >
+          <span>
+            View the Data
+          </span>
+        </button>
+        <button
+          class="ant-btn ant-btn-default"
+          style="background-color: rgb(64, 76, 74); color: rgb(255, 255, 255);"
+          type="button"
+        >
+          <span>
+            Download the Data
+          </span>
+        </button>
+      </div>
+    </div>
+    <div
+      class="middle-section"
+    >
+      <div
+        class="hrf-img-container"
+      >
+        <img
+          alt="Human Rights First"
+          class="hrf-img"
+          src="paper-stack.jpg"
+        />
+      </div>
+      <div
+        class="middle-section-text-container"
+      >
+        <h3>
+          Human Rights First has created a search tool to give you a user-friendly way to explore a data set of asylum decisions between FY 2016 and May 2021 by the USCIS Asylum Office, which we received through a Freedom of Information Act request. You can search for information on asylum grant rates by year, nationality, and asylum office, visualize the data with charts and heat maps, and download the data set
+        </h3>
+      </div>
+    </div>
+    <div>
+      <div
+        class="bottom-section"
+      >
+        <div
+          class="bottom-text-container"
+        >
+          <h1>
+            Systemic Disparity Insights
+          </h1>
+        </div>
+        <div
+          class="bottom-section-container"
+        >
+          <div
+            class="bottom-subsection-container"
+          >
+            <div
+              class="bottom-subtext-container"
+            >
+              <h2>
+                36%
+              </h2>
+            </div>
+            <div
+              class="bottom-subtext-p-container"
+            >
+              <h3>
+                By the end of the Trump administration, the average asylum office grant rate had fallen 35 percent from an average of 44 percent in fiscal year 2016 to 28 percent in fiscal year 2020.
+              </h3>
+            </div>
+          </div>
+          <div
+            class="bottom-subsection-container"
+          >
+            <div
+              class="bottom-subtext-container"
+            >
+              <h2>
+                5%
+              </h2>
+            </div>
+            <div
+              class="bottom-subtext-p-container"
+            >
+              <h3>
+                The New York asylum office grant rate dropped to 5 percent in fiscal year 2020.
+              </h3>
+            </div>
+          </div>
+          <div
+            class="bottom-subsection-container"
+          >
+            <div
+              class="bottom-subtext-container"
+            >
+              <h2>
+                6x Lower
+              </h2>
+            </div>
+            <div
+              class="bottom-subtext-p-container"
+            >
+              <h3>
+                Between fiscal year 2017 and 2020, the New York asylum office’s average grant rate was six times lower than the San Francisco asylum office.
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div
+          class="view-more-data-btn-container"
+        >
+          <button
+            class="ant-btn ant-btn-default"
+            style="background-color: rgb(64, 76, 74); color: rgb(255, 255, 255);"
+            type="button"
+          >
+            <span>
+              Read More
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <p
+        class="back-to-top"
+      >
+        Back To Top ^
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
+
+exports[`CSS Style Tests for RenderLandingPage Responsive Layout renders correctly on tablet (800px) 1`] = `
+<DocumentFragment>
+  <div
+    class="main"
+  >
+    <div
+      class="header"
+      data-testid="header"
+    >
+      <div
+        class="header-text-container"
+      >
+        <h1>
+          Asylum Office Grant Rate Tracker
+        </h1>
+        <h3>
+          The Asylum Office Grant Rate Tracker provides asylum seekers, researchers, policymakers, and the public an interactive tool to explore USCIS data on Asylum Office decisions
+        </h3>
+      </div>
+    </div>
+    <div
+      class="graphs-section"
+    >
+      <div
+        class="graphs-colums-container"
+      >
+        <div
+          class="graphs-image-container"
+        >
+          <div
+            class="graphs-img-container"
+          >
+            <img
+              alt="Grant Rates By Office"
+              class="grf-img"
+              src="bar-graph-no-text.png"
+            />
+          </div>
+          <div
+            class="graphs-text-container"
+          >
+            <h3>
+              Search Grant Rates By Office
+            </h3>
+          </div>
+        </div>
+        <div
+          class="graphs-image-container"
+        >
+          <div
+            class="graphs-img-container"
+          >
+            <img
+              alt="Grant Rates By Nationality"
+              class="grf-img"
+              src="pie-chart-no-text.png"
+            />
+          </div>
+          <div
+            class="graphs-text-container"
+          >
+            <h3>
+              Search Grant Rates By Nationality
+            </h3>
+          </div>
+        </div>
+        <div
+          class="graphs-image-container"
+        >
+          <div
+            class="graphs-img-container"
+          >
+            <img
+              alt="Grant Rates Over Time"
+              class="grf-img"
+              src="line-graph-no-text.png"
+            />
+          </div>
+          <div
+            class="graphs-text-container"
+          >
+            <h3>
+              Search Grant Rates Over Time
+            </h3>
+          </div>
+        </div>
+      </div>
+      <div
+        class="view-more-data-btn-container"
+      >
+        <button
+          class="ant-btn ant-btn-default"
+          style="background-color: rgb(64, 76, 74); color: rgb(255, 255, 255);"
+          type="button"
+        >
+          <span>
+            View the Data
+          </span>
+        </button>
+        <button
+          class="ant-btn ant-btn-default"
+          style="background-color: rgb(64, 76, 74); color: rgb(255, 255, 255);"
+          type="button"
+        >
+          <span>
+            Download the Data
+          </span>
+        </button>
+      </div>
+    </div>
+    <div
+      class="middle-section"
+    >
+      <div
+        class="hrf-img-container"
+      >
+        <img
+          alt="Human Rights First"
+          class="hrf-img"
+          src="paper-stack.jpg"
+        />
+      </div>
+      <div
+        class="middle-section-text-container"
+      >
+        <h3>
+          Human Rights First has created a search tool to give you a user-friendly way to explore a data set of asylum decisions between FY 2016 and May 2021 by the USCIS Asylum Office, which we received through a Freedom of Information Act request. You can search for information on asylum grant rates by year, nationality, and asylum office, visualize the data with charts and heat maps, and download the data set
+        </h3>
+      </div>
+    </div>
+    <div>
+      <div
+        class="bottom-section"
+      >
+        <div
+          class="bottom-text-container"
+        >
+          <h1>
+            Systemic Disparity Insights
+          </h1>
+        </div>
+        <div
+          class="bottom-section-container"
+        >
+          <div
+            class="bottom-subsection-container"
+          >
+            <div
+              class="bottom-subtext-container"
+            >
+              <h2>
+                36%
+              </h2>
+            </div>
+            <div
+              class="bottom-subtext-p-container"
+            >
+              <h3>
+                By the end of the Trump administration, the average asylum office grant rate had fallen 35 percent from an average of 44 percent in fiscal year 2016 to 28 percent in fiscal year 2020.
+              </h3>
+            </div>
+          </div>
+          <div
+            class="bottom-subsection-container"
+          >
+            <div
+              class="bottom-subtext-container"
+            >
+              <h2>
+                5%
+              </h2>
+            </div>
+            <div
+              class="bottom-subtext-p-container"
+            >
+              <h3>
+                The New York asylum office grant rate dropped to 5 percent in fiscal year 2020.
+              </h3>
+            </div>
+          </div>
+          <div
+            class="bottom-subsection-container"
+          >
+            <div
+              class="bottom-subtext-container"
+            >
+              <h2>
+                6x Lower
+              </h2>
+            </div>
+            <div
+              class="bottom-subtext-p-container"
+            >
+              <h3>
+                Between fiscal year 2017 and 2020, the New York asylum office’s average grant rate was six times lower than the San Francisco asylum office.
+              </h3>
+            </div>
+          </div>
+        </div>
+        <div
+          class="view-more-data-btn-container"
+        >
+          <button
+            class="ant-btn ant-btn-default"
+            style="background-color: rgb(64, 76, 74); color: rgb(255, 255, 255);"
+            type="button"
+          >
+            <span>
+              Read More
+            </span>
+          </button>
+        </div>
+      </div>
+    </div>
+    <div>
+      <p
+        class="back-to-top"
+      >
+        Back To Top ^
+      </p>
+    </div>
+  </div>
+</DocumentFragment>
+`;
